@@ -370,7 +370,7 @@ C A R O U S E L
   width: 45%;
   text-align: left;
   padding: 0;
-  margin-bottom: 10%;
+  margin-bottom: 5%;
 }
 .site-header__carousel .carousel-caption h1 {
   letter-spacing: 3px;
@@ -1055,10 +1055,11 @@ SITE-FOOTER
   /*carousel-inner*/
   .site-header__carousel .carousel-caption {
     width: 55%;
+    margin-bottom: 5%;
   }
   .site-header__carousel .carousel-caption p {
     margin-bottom: 5px;
-    font-size: 0.6em;
+    font-size: 0.8em;
   }
   .site-header__carousel .carousel-caption h1 {
     letter-spacing: 2px;
@@ -1341,10 +1342,11 @@ SITE-FOOTER
   /*carousel-inner*/
   .site-header__carousel .carousel-caption {
     width: 55%;
+    margin-bottom: 5%;
   }
   .site-header__carousel .carousel-caption p {
-    margin-bottom: 3px;
-    font-size: 0.5em;
+    margin-bottom: 2px;
+    font-size: 0.6em;
   }
   .site-header__carousel .carousel-caption h1 {
     letter-spacing: 1px;
@@ -1352,7 +1354,7 @@ SITE-FOOTER
   }
   .site-header__carousel .btn-success { 
     font-size: 0.5em;
-    width: 30%;
+    width: 33%;
     padding: 4px 12px;
   }
 
@@ -1398,11 +1400,11 @@ SITE-FOOTER
   }
   .site-header__carousel .carousel-caption p {
     margin-bottom: 0;
-    font-size: 0.4em;
+    font-size: 0.7em;
   }
   .site-header__carousel .carousel-caption h1 {
     letter-spacing: 1px;
-    font-size: 0.8em;
+    font-size: 1em;
   }
   .site-header__carousel .btn-success { 
     font-size: 0.5em;
