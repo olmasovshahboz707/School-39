@@ -521,8 +521,6 @@ MAIN-CONTENT
   background-size: cover;
   color: #fff;
 }
-.reference {
-}
 .reference-body {
   text-align: center;
   z-index: 1;
@@ -1401,11 +1399,11 @@ SITE-FOOTER
   }
   .site-header__carousel .carousel-caption p {
     margin-bottom: 0;
-    font-size: 0.7em;
+    font-size: 0.55em;
   }
   .site-header__carousel .carousel-caption h1 {
     letter-spacing: 1px;
-    font-size: 1.2em;
+    font-size: 0.9em;
   }
   .site-header__carousel .btn-success { 
     font-size: 0.5em;
