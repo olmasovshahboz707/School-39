@@ -1,3 +1,12 @@
+// lOADER SITE
+
+$(document).ready(function(){
+  $('.loader').css('display','none');
+  $('.container-inner, .radial').css('display','block');
+});
+
+
+// MENU TOGGLER
 var ready = function (cb){
   //Check if 'document' is loaded complaty
   document.readyState === "loading"
