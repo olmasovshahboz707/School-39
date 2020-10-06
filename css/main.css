@@ -513,16 +513,15 @@ MAIN-CONTENT
 }
 
 /* REFERENCE */
-.reference,
-.events {
-  background-size: cover;
+.reference {
+  background-image: url(../img/reference/banner.jpg);
+  background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: center;
-  background-attachment: fixed;
+  background-size: cover;
   color: #fff;
 }
 .reference {
-  background-image: url(../img/reference/banner.jpg);
 }
 .reference-body {
   text-align: center;
